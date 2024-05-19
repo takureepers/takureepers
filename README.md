@@ -1,4 +1,5 @@
 # 👱Profile
+こんにちは。一般人です。
 # 👜My Skills
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takureepers&layout=compact&show_icons=true&theme=merko" />
